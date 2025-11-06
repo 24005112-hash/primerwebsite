@@ -1,0 +1,35 @@
+body {
+    background-color: #f2f0ef;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(33, 33, 41);
+    margin: 40px;
+}
+h1 {
+    color:cornflowerblue;
+}
+h2 {
+    color: cornflowerblue;
+    text-align: center;
+}
+/*Selector de id */
+#motivos {
+    width: 640px;
+    height: 120px;
+}
+/* Selector de id */
+#tabla {
+    padding: 25px;
+    margin: 10px;
+    background-color: rgb(216, 212, 212);
+}
+th, td {
+  padding-top: 10px;
+  padding-bottom: 15px;
+  padding-left: 30px;
+  padding-right: 40px;
+}
+/* Selector de clase */
+.imagen {
+    margin: 2em;
+    padding: 2em;
+}
